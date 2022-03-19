@@ -1,1 +1,1 @@
-This is for the alx course
+This is a non empty readme file
